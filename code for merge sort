@@ -1,4 +1,4 @@
-mport random
+import random
 def Merge(p,r):
     result = []  
     i,j = 0,0
